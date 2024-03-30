@@ -43,7 +43,7 @@
 
   # Architectural Design
 
-     # Architectural Project services
+     * # Architectural Project services
 
      * Nginx 
      * tomcat 
@@ -51,13 +51,15 @@
      * Memcached 
      * MySql Service
 
-     # Architecture of automated setup
+    *  # Architecture of automated setup
 
      * Vagrant 
      * virual Box 
-     * gitBash 
-     * And also we will have some scripts and commands 
-  
+     * gitBash
+
+       # Architecture
+
+     ![vp](https://github.com/Bhavana851/vprofile-project-main/assets/153347669/7ede0ed9-9dd6-4d2b-89ae-d3121775c1fb)
 
     
 
