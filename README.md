@@ -51,17 +51,33 @@
      * Memcached 
      * MySql Service
 
+   ![vp](https://github.com/Bhavana851/vprofile-project-main/assets/153347669/7ede0ed9-9dd6-4d2b-89ae-d3121775c1fb)
+
+
     *  # Architecture of automated setup
 
      * Vagrant 
      * virual Box 
      * gitBash
+       
+    ![AVP](https://github.com/Bhavana851/vprofile-project-main/assets/153347669/4b9ff267-8314-4369-ab01-66d7a960eaae)
 
-       # Architecture
 
-     ![vp](https://github.com/Bhavana851/vprofile-project-main/assets/153347669/7ede0ed9-9dd6-4d2b-89ae-d3121775c1fb)
-
-    
+    # Flow of Execution
+  
+    * setup tools as mentioned in Prerequisite Video
+    * clone source code
+    * cd into the vagrant dir
+    * Bring up the VM's
+    * Valindate
+    * Setup all the services
+       - My sql
+       - Memcached
+       - Rabbit MQ
+       - Tomcat
+       - Nginx
+       - App Build and Deploy
+    * Verify from browser
 
 
 
