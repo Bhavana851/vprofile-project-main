@@ -39,7 +39,7 @@
   * Hypervisor - Oracle VM Virtual Box
   * Automation - vagrant
   * CLI - Git Bash
-  * IDE - Sublime Text
+  * IDE - Sublime Text,Visual studio,Notepad++
 
   # Architectural Design
 
@@ -57,7 +57,7 @@
     *  # Architecture of automated setup
 
      * Vagrant 
-     * virual Box 
+     * virtual Box 
      * gitBash
        
     ![AVP](https://github.com/Bhavana851/vprofile-project-main/assets/153347669/4b9ff267-8314-4369-ab01-66d7a960eaae)
